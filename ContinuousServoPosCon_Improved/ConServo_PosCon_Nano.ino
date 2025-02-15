@@ -1,7 +1,7 @@
 /*
   Continuous Servo Position Control - Angle-Based Version
-  Author: [Your Name]
-  License: [Your License, e.g., MIT]
+  Author: Aditya Mondal
+  License: GNU General Public License v3.0
 
   Inspired by Sandrolab's work:
   https://github.com/sandrolab/continuous-servo-pot-control
