@@ -1,3 +1,15 @@
+/*
+  Continuous Servo Position Control - Angle-Based Version
+  Author: [Your Name]
+  License: [Your License, e.g., MIT]
+
+  Inspired by Sandrolab's work:
+  https://github.com/sandrolab/continuous-servo-pot-control
+
+  Unlike the original potentiometer-based control method, this version takes direct angle input 
+  from the user and moves the servo for a calculated duration to approximate the desired position.
+*/
+
 #include <Servo.h>
 
 // Servo object
